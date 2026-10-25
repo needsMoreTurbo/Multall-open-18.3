@@ -1,0 +1,7 @@
+# build outputs
+build/multall
+build/meangen
+build/stagen
+build/Stagen-18.1-fixed.f
+# run output
+mem.out
